@@ -1,0 +1,32 @@
+{
+  "name": "foxford-by-vai-hb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOXFORD-by-VAI/Happy-Birthday.git"
+  },
+  "keywords": [
+    "FOXFORD",
+    "ФоксФорд",
+    "VAI",
+    "VOLT",
+    "Happy-Birthday",
+    "День-рождение",
+    "HB",
+    "ДР"
+  ],
+  "author": "VAI",
+  "license": "SEE LICENSE IN LICENSE.html",
+  "bugs": {
+    "url": "https://github.com/FOXFORD-by-VAI/Happy-Birthday/issues"
+  },
+  "homepage": "https://github.com/FOXFORD-by-VAI/Happy-Birthday#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
